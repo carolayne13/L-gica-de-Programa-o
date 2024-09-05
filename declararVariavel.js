@@ -6,4 +6,4 @@ var nome = "Carolayne ";
 var sobrenome = "Costa";
 var nomeCompleto = nome + sobrenome
 
-console.log(nomeCompleto)
+console.log("O meu nome é: ",nomeCompleto)
